@@ -135,6 +135,7 @@ nav {
 
 .nav__links.open {
   transform: translateY(0);
+  z-index: 1;
 }
 
 .link a {
